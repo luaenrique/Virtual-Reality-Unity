@@ -1,5 +1,8 @@
 # How to create a Timed Gaze Input w/ a Loading Bar using Unity Google VR SDK
 
+## My unity version: Unity 2017.2.2p2 (64-bit)
+
+
 Note: I am supposing that you already have setted up your VR camera in unity.
 
 ![gif](https://i.imgur.com/zPq3zdm.gif)
