@@ -2,7 +2,7 @@
 
 Note: I am supposing that you already have setted up your VR camera in unity.
 
-![gif](https://i.imgur.com/qXW2Kb2.gif)
+![gif](https://i.imgur.com/zPq3zdm.gif)
 
 
 To do it, you will need an image to be your loading bar, I've used this one:
