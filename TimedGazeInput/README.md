@@ -3,7 +3,7 @@
 ## My unity version: Unity 2017.2.2p2 (64-bit)
 
 
-Note: I am supposing that you already have setted up your VR camera in unity.
+Note: I am supposing that you already have ![setted up your VR camera in unity.](https://github.com/luaenrique/Virtual-Reality-Unity/tree/master/SettingUpYourCamera)
 
 ![gif](https://i.imgur.com/zPq3zdm.gif)
 
