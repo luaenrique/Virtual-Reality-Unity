@@ -14,7 +14,7 @@ To do it, you will need an image to be your loading bar, I've used this one:
 
 Then you need to upload it to unity and set it as a Sprite:
 
-![setting up a sprite] (https://i.imgur.com/aof5zTE.png)
+![setting up a sprite](https://i.imgur.com/aof5zTE.png)
 
 Now, you'll need to create a canvas and inside of it you create an image:
 
