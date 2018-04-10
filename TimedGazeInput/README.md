@@ -22,7 +22,7 @@ Now, you'll need to create a canvas and inside of it you create an image:
 
 Then you have to put your sprite inside of the image component as a source image:
 
-![setting up a sprite](https://i.imgur.com/3Z3BlM9.png)
+![](https://i.imgur.com/3Z3BlM9.png)
 
 Now you have to drag and drop your canvas to your script (You can check the file "TimedGazeScript" and follow it to build your code)!
 
