@@ -16,7 +16,7 @@
 
 ![](https://i.imgur.com/1LbtY7b.png)
 
-### 3. Create an empty object in your Unity Scene, and put your main camera inside of it and put the GvrControllerMain inside of your scene.
+### 3. Create an empty object in your Unity Scene, and put your main camera inside of it and put the GvrControllerMain and the GvrEventSystem inside of your scene.
 
 ### 4. Now, search for GvrReticlePointer inside of your GoogleVR SDK Assets folder and drag and drop it inside of your main camera:
 
